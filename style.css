@@ -9,6 +9,10 @@ header{
   background-color: yellow;
 }
 
+.container{
+  width: 1000px;
+  margin: auto;
+}
 main{
   margin:10px 0;
 }
@@ -21,5 +25,24 @@ main::after{
 }
 
 .box1{
+float: left;
+height: :70%;
+width:29%;
+margin-right:1%;
+background-color: red;
+}
 
+.box2{
+  float: left;
+  padding: 50px;
+  width:40px;
+  background-color: green;
+}
+
+.box3{
+  float: left;
+  height: :70%;
+  width:29%;
+  margin-left:1%;
+  background-color: brown;
 }
