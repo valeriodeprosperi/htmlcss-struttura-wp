@@ -36,7 +36,7 @@ background-color: #CC87DA;
 .box2{
   float: left;
   height:100%;
-  width:300px;
+  width:40%;
   background-color: #730671;
 }
 
@@ -47,11 +47,13 @@ background-color: #CC87DA;
   margin-left:1%;
   background-color: #CC87DA;
 }
-.box3margin{
-  height:50%;
-  margin-bottom: 20px;
+.widget{
+  height: 150px;
+  margin-bottom: 5%;
   background-color: red;
+
 }
+
 
 footer{
   height: 100px;
